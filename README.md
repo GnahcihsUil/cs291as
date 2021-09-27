@@ -1,2 +1,2 @@
-# cs291a-Scalable Internet Services
+# cs291a
 project 0 
