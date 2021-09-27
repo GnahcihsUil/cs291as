@@ -1,3 +1,10 @@
-body {
-	font-family: 'Merienda', cursive;
+hr {
+	border-top: 2px dashed pink;
 }
+
+table, td {
+  border: 1px solid pink;
+  border-collapse: collapse;
+}
+
+tr:hover {background-color: pink;}
